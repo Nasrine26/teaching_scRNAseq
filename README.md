@@ -1,5 +1,7 @@
 # scRNA-seq analysis in python tutorial
 
+In contrast to the bulk RNA sequencing used to quantify the abundance of gene and transcript expression at a whole population level, single-cell RNA sequencing (scRNA-seq) allows researchers to study gene expression profile at a single cell resolution while enabling the discovery of tissue specific subpopulations and markers
+
 We gratefully acknowledge Seurat’s and Scanpy's authors for the tutorial!
 
 Teaching session are divided into 3 session:
